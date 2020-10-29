@@ -21,7 +21,7 @@
 	
 #define MyAppDir                  	".\app"
 #define MyResourceDir             	".\res"
-#define MyCoreDir				  	        MyResourceDir+"\core"
+#define MyCoreDir				  	MyResourceDir+"\core"
 #define MyTmpDir                  	MyResourceDir+"\tmp"
 #define MyOutputDir               	".\setup"
 	
